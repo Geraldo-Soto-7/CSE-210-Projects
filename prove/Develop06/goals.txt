@@ -1,0 +1,3 @@
+0
+[SimpleGoal] go to visit my freinds - Completed: False
+[EternalGoal] go to the church every sunday
